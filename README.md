@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TristanBetclic
+- 👋 Hi, I’m @Tristan L Betclic
 - 👀 I’m interested in Fraud Management, automation processes, SQL queries...
 - 🌱 I’m currently learning how to use Snowflake
 - 💞️ I’m looking to collaborate on BI tools
